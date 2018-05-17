@@ -129,14 +129,14 @@ Before loading the data we need to make sure that we are in the right directory 
 The PC version (assuming that you downloaded the data package and moved it onto your desktop)
 
 ```{r}
-setwd("C:/Users/Desktop/R4Oceanography")
+setwd("C:/Users/Desktop/R4Oceanography-master")
 ```
 
 
 
 The mac version (assuming that you downloaded the data package and moved it onto your desktop)
 ```{r}
-setwd("~/Desktop/R4Oceanography/")
+setwd("~/Desktop/R4Oceanography-master")
 
 ```
 
