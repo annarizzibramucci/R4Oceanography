@@ -44,9 +44,9 @@ The objectives of todays practical are to:
 
 *setup*
 
-* install the [latest version of R](https://www.r-project.org) on your own laptop (or one provided to you)
-* install the [latest version of RStudio](https://www.rstudio.com/products/rstudio/download/)
-* Download the data package from github [Dropbox](https://www.dropbox.com/s/32gqppw9r6odm01/R4Oceanography.zip?dl=0). Move it to your Desktop folder and unzip it
+* install the [latest version of R] (https://www.r-project.org) on your own laptop (or one provided to you)
+* install the [latest version of RStudio] (https://www.rstudio.com/products/rstudio/download/)
+* Download the data package from [github] (https://github.com/martinostrowski/R4Oceanography). Move it to your Desktop folder and unzip it
 
 
 (20-30 min)
